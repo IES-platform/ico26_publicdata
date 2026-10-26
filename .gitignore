@@ -1,0 +1,15 @@
+.ipynb_checkpoints/ico2026_read_ico_data-checkpoint.ipynb
+.ipynb_checkpoints/readme-checkpoint.md
+.ipynb_checkpoints/ico2026_space-checkpoint.ipynb
+ico_2026_dataset.zip
+ico26_publicdata/capabilities.parquet
+ico26_publicdata/densities.parquet
+ico26_publicdata/field_complexities.parquet
+ico26_publicdata/field_proximities.parquet
+ico26_publicdata/fields.parquet
+ico26_publicdata/outputs.parquet
+ico26_publicdata/potentials.parquet
+ico26_publicdata/README.md
+ico26_publicdata/unit_complexities.parquet
+ico26_publicdata/unit_proximities.parquet
+ico26_publicdata/units.parquet
